@@ -1,4 +1,12 @@
-## Hi there 👋
+# Ming Scott
+![IMG_20240906_121644_428~2](https://github.com/user-attachments/assets/10cdfe2e-51fb-419a-8947-c2834750348d)
+
+## About Me
+I'm doing a combined major in neuroscience and creative writing, which I started in 2016. I've always been deeply interested in data analysis and visualization / representation with code since some formative experiences working in a Sick Kids MEG lab, but have worked mostly in R and Matlab, so this was a great opportunity to learn some python and evaluate the AI tools that have become so popular for my own use. I've been interested in neuroscience since I was young, both from a desire to understand my own twisty little mind and from exposure through family members in the field. My career and post-graduation plans are still blurry - I've found a lot of joy working in food security and other nonprofit work.
+
+I'm realizing that I haven't really showed off my grasp of markdown with this, so I'll finish with a fancy little quote box:
+
+> Less is More
 
 <!--
 **JiaMingScott/JiaMingScott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
